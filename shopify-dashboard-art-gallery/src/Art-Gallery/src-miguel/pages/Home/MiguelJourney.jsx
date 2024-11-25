@@ -1,5 +1,3 @@
-import React from "react";
-import sideimg from "../../images/miguel.webp";
 import Mcrop from "../../images/miguelcopy.jpg";
 
 const MiguelJourney = () => {

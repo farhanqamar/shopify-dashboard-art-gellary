@@ -1,4 +1,3 @@
-import React from "react";
 import "./Miguel.css";
 import bioMi from "../images/BioMiguel.webp";
 import Bmiguel from "../images/Mblog.webp" 
@@ -22,7 +21,7 @@ const Bio = () => {
             </h1>
             <p className="text-[#F6C934] text-[18px] list lg:text-white my-6">
               Miguel has had an unpredictable and incredible journey since the
-              beginning. We can’t wait to share with you how he got started with
+              beginning. We cant wait to share with you how he got started with
               his passion for art and what went into becoming one of the most
               successful Southwest artists.
             </p>
@@ -32,7 +31,7 @@ const Bio = () => {
             </div>
             <p className="text-[#F6C934] text-[18px] lg:text-white underline text-center mt-4">
               <a className="list text-[#FACC15]" href="#">
-                Support Miguel Camarena’s Art
+                Support Miguel Camarenas Art
               </a>
             </p>
           </div>
@@ -52,13 +51,13 @@ const Bio = () => {
               <span className="text-[#F6C934] text-[18px] list italic">Southern California</span>{" "}
               at 13, where he started school. In the first year of junior high,
               he took art classes, which he enjoyed so much that he greatly
-              excelled in the subject. The school's principal approached him and
+              excelled in the subject. The schools principal approached him and
               asked him to design the yearbook cover, which became his first
               printed illustration.
             </p>
             <p className="text-[#F6C934] text-[18px] list lg:text-white my-6">
               Soon after that, he was encouraged by his other teachers to get
-              more involved in art classes, but it wasn’t until after high
+              more involved in art classes, but it wasnt until after high
               school that an{" "}
               <span className="text-[#F6C934] text-[18px] list italic">
                 International Production Company
@@ -112,7 +111,7 @@ const Bio = () => {
 
           <div className="mt-8">
             <h2 className="text-[#F6C934] text-3xl font-extrabold tracking-wide pt-10 italic">
-              Miguel’s Passion Took A U-Turn
+              Miguels Passion Took A U-Turn
             </h2>
             <p className="text-[#F6C934] text-[18px] list lg:text-white my-6">
               Camarena felt he needed to make a change in his career. He then
@@ -166,14 +165,14 @@ const Bio = () => {
               paintings, fine art prints, wholesale options, corporate and home
               art curation, as well as home and real estate staging services at
               his art gallery located in Cave Creek, Arizona. Additionally,
-              Miguel Camarena’s offerings are available online to customers
+              Miguel Camarenas offerings are available online to customers
               around the world.
             </p>
           </div>
 
           <div className="my-6">
             <h2 className="text-[#F6C934] text-3xl font-extrabold tracking-wide pt-10">
-              Miguel’s Dedication Towards Humankind
+              Miguels Dedication Towards Humankind
             </h2>
             <div className="mt-8">
               <img src={mprints} alt="Image" className="m-auto" />

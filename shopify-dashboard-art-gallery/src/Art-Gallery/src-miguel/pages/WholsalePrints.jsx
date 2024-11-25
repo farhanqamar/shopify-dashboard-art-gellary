@@ -1,4 +1,3 @@
-import React from 'react'
 import wholsale from '../images/wholesale.webp'
 import PaintingsDistribution from '../components/PaintingsDistribution'
 import WholesaleArtwork from '../components/WholesaleArtwork'
@@ -28,7 +27,7 @@ const WholsalePrints = () => {
           <div className='flex flex-col py-12 px-5'>
                 <div className='text-white md:flex items-center m-auto py-5'>
                     <h1 className='text-[#F6C936] md:w-1/2 text-center text-3xl font-bold'>Art Delivered On Your Terms</h1>
-                    <p className='md:w-1/2 text-left list'>We love challenges, especially when handling mass orders for wholesale art supplies for businesses. Be it a time-sensitive project or an expanded installation, we've got you covered! Even with the bulk order, we ensure to meet the deadlines, and you get your shipment on your doorstep right on time!</p>
+                    <p className='md:w-1/2 text-left list'>We love challenges, especially when handling mass orders for wholesale art supplies for businesses. Be it a time-sensitive project or an expanded installation, weve got you covered! Even with the bulk order, we ensure to meet the deadlines, and you get your shipment on your doorstep right on time!</p>
                 </div>
 
               <div className=' p-6'>

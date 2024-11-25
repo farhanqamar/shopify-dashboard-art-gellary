@@ -1,5 +1,7 @@
-import React from "react";
-import "./Miguel.css"
+import "./Miguel.css";
+
+
+
 const ArtServices = () => {
   return (
     <>
@@ -92,7 +94,7 @@ const ArtServices = () => {
               </li>
               <li className="list">
                 On giclee prints on canvas, we offer standard sizes as well as
-                custom sizes if you're looking to fill a specific spot.
+                custom sizes if youre looking to fill a specific spot.
               </li>
             </ul>
             <p className="list">Contact us if you have any questions.</p>

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import {useState} from "react";
 import { Link } from "react-router-dom";
 import { MdCardTravel, MdClose, MdSearch } from "react-icons/md";
 import { CiUser } from "react-icons/ci";

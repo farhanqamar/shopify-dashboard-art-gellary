@@ -33,7 +33,7 @@ const OriginalArt = () => {
                 <div className='lg:w-1/2 m-auto lg:space-y-6  p-6 lg:p-0'>
                     <div><h1 className='text-lg sm:text-2xl lg:text-4xl font-bold py-4 text-[#f6c936]'>Customize Your Paintings Size</h1>
                         <div>
-                            <p className='list text-[18px]'>We offer size customization to meet your preferences. Our skilled team attentively listens to your requirements and considers your space, providing expert advice on selecting the ideal size to improve your wall's aesthetics.</p> <br />
+                            <p className='list text-[18px]'>We offer size customization to meet your preferences. Our skilled team attentively listens to your requirements and considers your space, providing expert advice on selecting the ideal size to improve your walls aesthetics.</p> <br />
 
                             <p className='list text-[18px]'>Miguel Camarena is dedicated to ensuring an unparalleled experience by exclusively utilizing industrial-quality materials for his paintings. His artworks focus on durability and maintain their original allure over time, promising a timeless view that stays as fresh as new.</p> <br />
 
@@ -41,7 +41,7 @@ const OriginalArt = () => {
                         </div>
                         <div className='w-auto'>
                             <Link to={'/contact'}>
-                                <button className='text-[#f6c936] py-12 list text-[18px]'> Let's Start!
+                                <button className='text-[#f6c936] py-12 list text-[18px]'> Lets Start!
                                     <hr className="w-auto h-[2px] bg-yellow-500 mt-2" />
                                 </button>
                             </Link>

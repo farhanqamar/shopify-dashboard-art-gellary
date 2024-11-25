@@ -1,4 +1,3 @@
-import React from 'react';
 import AddToCard from './AddToCard';
 import Sliders from '../components/Sliders';
 import "./Miguel.css";

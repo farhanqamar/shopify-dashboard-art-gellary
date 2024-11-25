@@ -1,14 +1,13 @@
 {
   "compilerOptions": {
-    "types": ["vite/client"],
-    "target": "ES2020",
-    "module": "commonjs",
-    "outDir": "./dist",
-    "rootDir": "./src",
+    "strict": true,
     "esModuleInterop": true,
-    "strict": true
+    "moduleResolution": "node",
+    "target": "ESNext"
   },
   "include": [
-    "src/**/*.ts"
-, "vite-env.d.ts"  ]
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/src-dashboard/vite-env.d.ts"  // Add this line to include vite-env.d.ts explicitly
+  ]
 }

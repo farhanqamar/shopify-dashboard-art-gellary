@@ -1,7 +1,8 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 // import custom_giclee from '../assets/custom_giclee.webp'
-import custom_giclee from './custom_giclee.webp'
+import custom_giclee from './custom_giclee.webp';
+
+
 
 const CustomGiclee = () => {
   return (

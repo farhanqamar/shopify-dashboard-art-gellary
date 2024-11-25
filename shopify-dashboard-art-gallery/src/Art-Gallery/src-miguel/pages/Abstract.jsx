@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import abs1 from "../images/abstract/abs1.webp";
 import abs2 from "../images/abstract/abs2.webp";
 import abs3 from "../images/abstract/abs3.webp";

@@ -1,4 +1,3 @@
-import React from "react";
 import pay from "../../images/pay.png";
 import { Link } from "react-router-dom";
 const FooterBottom = () => {

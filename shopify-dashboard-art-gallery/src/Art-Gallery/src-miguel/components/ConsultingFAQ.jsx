@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { IoIosArrowDown } from "react-icons/io";
 
 const ConsultingFAQ = () => {
   const [first, setFirst] = useState(false);
   const [second, setSecond] = useState(false);
-  const [third, setThird] = useState(false);
+  // const [third, setThird] = useState(false);
   return (
     <section>
       <div className="text-[#F6C936] lg:w-2/5 m-auto space-y-10 p-6 lg:p-0">

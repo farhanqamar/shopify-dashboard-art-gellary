@@ -1,11 +1,10 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 import { A11y, Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import {Link} from 'react-router-dom'
-import im1 from "../../images/array2/i1.webp";
 import im2 from "../../images/array2/i2.webp";
 import im3 from "../../images/array2/i3.webp";
 import im4 from "../../images/array2/i4.webp";

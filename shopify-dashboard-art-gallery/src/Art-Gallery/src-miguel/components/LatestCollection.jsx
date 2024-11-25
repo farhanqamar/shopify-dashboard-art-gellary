@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useRef } from 'react';
 // import original from '../../assets/original.webp';
 import original from "./original.webp"
 

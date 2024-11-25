@@ -1,6 +1,4 @@
-import React from "react";
 import Test from "./Test";
-import SideImage from "./SideImage";
 import Donkey1 from "../../images/Donkey1.webp";
 import Donkey2 from "../../images/Donkey2.webp";
 import Donkey3 from "../../images/Donkey3.webp";

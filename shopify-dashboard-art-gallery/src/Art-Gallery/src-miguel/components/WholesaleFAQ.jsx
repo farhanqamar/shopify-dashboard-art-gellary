@@ -1,6 +1,12 @@
-import React from 'react'
+import { useState } from "react";
+import { IoIosArrowDown } from "react-icons/io";
+
 
 const WholesaleFAQ = () => {
+    const [first, setFirst] = useState(false);
+    const [second, setSecond] = useState(false);
+
+
   return (
     <section>
     <div className='text-[#F6C936] lg:w-2/5 m-auto space-y-10 p-6 lg:p-0'>
@@ -24,7 +30,7 @@ const WholesaleFAQ = () => {
             </h1>
             {second && (
                 <div className='py-4'>
-                <p className='text-white'>A corporate art consultant works with individual customers, acting as an impartial guide through obtaining a single art item or establishing a whole collection. Whereas, an art dealer's job is to represent the artists and their work.</p>
+                <p className='text-white'>A corporate art consultant works with individual customers, acting as an impartial guide through obtaining a single art item or establishing a whole collection. Whereas, an art dealers job is to represent the artists and their work.</p>
                 </div>
             )}
         </div>
@@ -33,4 +39,4 @@ const WholesaleFAQ = () => {
   )
 }
 
-export default WholesaleFAQ
+export default WholesaleFAQ;

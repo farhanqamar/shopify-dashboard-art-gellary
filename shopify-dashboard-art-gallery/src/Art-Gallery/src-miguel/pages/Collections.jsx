@@ -206,7 +206,7 @@ const Collections = () => {
                   technology.{" "}
                 </p>
                 <p className="font-serif p2">
-                  ‘Giclee, a French word meaning “to spray” or “to squirt,”
+                  Giclee, a French word meaning “to spray” or “to squirt,”
                   refers to the process of applying ink/paint on the canvas or
                   paper during the printing process. This is a state-of-the-art
                   printing technique that is implemented to produce the highest

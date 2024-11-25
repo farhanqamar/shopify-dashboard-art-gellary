@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import {  menu } from './MenuItems'
 import { Link } from 'react-router-dom'
 

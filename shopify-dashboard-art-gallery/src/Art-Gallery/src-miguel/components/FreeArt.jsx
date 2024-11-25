@@ -1,5 +1,4 @@
-import React from 'react'
-import free_art from './free_art.webp'
+import free_art from './free_art.webp';
 
 const FreeArt = () => {
   return (

@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import { Navigation } from "swiper/modules";
@@ -43,6 +43,8 @@ const paintings = [
     price: 110, // Add the price here
   },
 ];
+
+
 const Sliders = ({ mainHeading }) => {
   // Custom navigation references
   const prevRef = useRef(null);

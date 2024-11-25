@@ -1,4 +1,3 @@
-import React from "react";
 import art_corporate from "../images/art_corporate.webp";
 
 const CorporateArt = () => {

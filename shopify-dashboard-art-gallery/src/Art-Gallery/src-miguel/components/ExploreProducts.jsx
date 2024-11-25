@@ -1,4 +1,3 @@
-import React from "react";
 import sunflower from "./sunflower.webp";
 import { Link } from "react-router-dom";
 

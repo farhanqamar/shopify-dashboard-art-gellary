@@ -1,8 +1,7 @@
-import React from 'react'
-import giclee_img from './giclee_img.webp'
-import giclee_img_2 from './giclee_img_2.webp'
-import giclee_img_3 from './giclee_img_3.webp'
-import giclee_img_4 from './giclee_img_4.webp'
+import giclee_img from './giclee_img.webp';
+import giclee_img_2 from './giclee_img_2.webp';
+import giclee_img_3 from './giclee_img_3.webp';
+import giclee_img_4 from './giclee_img_4.webp';
 
 const GicleeImage = () => {
   return (

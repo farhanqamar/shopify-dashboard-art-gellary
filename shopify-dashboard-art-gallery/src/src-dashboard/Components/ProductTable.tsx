@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { IoFilterSharp } from "react-icons/io5";
-import order_main from '../assets/img.png';
+import img from '../assets/img.png';
 import ProductAnalyticBar from './ProductAnalyticBar';
 
 
@@ -95,7 +95,7 @@ const ProductTable = () => {
 
         {products.length === 0 ? (
           <div className="bg-white py-3 rounded-xl text-center mb-6">
-            <img src={order_main} className="m-auto" alt="Order Placeholder" />
+            <img src={img} className="m-auto" alt="Order Placeholder" />
             <div className="text-center">
               <p className="text-base font-semibold">Your Products Will Show Here</p>
               <p className="text-sm w-full md:w-1/3 m-auto py-4">
